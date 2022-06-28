@@ -1,6 +1,6 @@
 
 // Teniendo en cuenta que como proyecto tengo pensado hacer una tienda de Funko Pop, estableci la siguiente clase y los arrays
-
+alert("Abra la consola")
 class Producto{
     constructor (name, id, precio, stock,){
     this.name =  name;
